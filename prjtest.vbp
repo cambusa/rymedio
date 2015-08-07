@@ -1,0 +1,35 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\WINDOWS\System32\stdole2.tlb#OLE Automation
+Reference=*\G{474A2F92-4E8F-43BF-8164-9893BAF91469}#2.0#0#bin\rymedio.dll#RudyZ debugger per VBScript
+Reference=*\G{F5078F18-C551-11D3-89B9-0000F81FE221}#3.0#0#..\..\WINDOWS\System32\msxml3.dll#Microsoft XML, v3.0
+Form=prjtest.frm
+Startup="Form1"
+ExeName32="prjtest.exe"
+Command32=""
+Name="Progetto1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Le Cose di Rudy"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
