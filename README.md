@@ -1,9 +1,11 @@
 ryMedio v1.3
 ============
 
+### © 2015 Rodolfo Calzetti
+
 __Client/Server debugger for VBScript__
 
-The project is written in Visual Basic 6: the 64-bit version will be available soon.
+The project is written in Visual Basic 6.
 
 ---
 
